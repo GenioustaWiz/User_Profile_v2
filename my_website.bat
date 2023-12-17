@@ -1,0 +1,1 @@
+start E:\Documents\projects\Python_Projects\Django\User_Profile_v2\venv\Scripts\activate
